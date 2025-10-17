@@ -57,15 +57,8 @@ This notebook is designed to run on **Google Colab**.
 ## 💡 Example Output
 
 ```
-🔹 Task Manager Menu 🔹
-1. List Tasks
-2. Add New Task
-3. Edit Task
-4. Delete Task
-5. Exit
-Choose an option (1-5): 2
-Enter a new task: Finish AI project
-✅ Task added successfully.
+![App Screenshot](Ekran görüntüsü 2025-10-17 114849.png)
+
 ```
 
 ---
