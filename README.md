@@ -54,9 +54,12 @@ This notebook is designed to run on **Google Colab**.
 
 ---
 
-## 💡 Example Output
+## 💡 Example Outputs
 
-![App Screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" alt="Task Manager Menu Example" width="500, 45%"/>
+  <img src="screenshot-2.png" alt="Saved Tasks File Example" width="500, 45%"/>
+</p>
 
 
 ---
