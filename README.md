@@ -56,10 +56,8 @@ This notebook is designed to run on **Google Colab**.
 
 ## 💡 Example Output
 
-```
-![App Screenshot](Ekran görüntüsü 2025-10-17 114849.png)
+![App Screenshot](screenshot.png)
 
-```
 
 ---
 
